@@ -1,0 +1,44 @@
+.body {
+  display: flex;
+}
+
+.input {
+  display: inline-block;
+  margin-left: 50px;
+  left: 0;
+  font-size: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.label {
+  display: inline-block;
+  font-size: 18px;
+}
+
+.checklist {
+  right: 0;
+}
+.checklist1 {
+  margin-left: 330px;
+}
+.sub {
+  margin-left: 150px;
+  font-size: 20px;
+}
+
+.text {
+  margin-left: 150px;
+  font-size: 16px;
+}
+
+.buttonvalue {
+  background-color: orange;
+  color: white;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
